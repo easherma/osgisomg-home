@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+
+languageCode = "en-us"
+
+title = "OSGISOMG"
+
+theme = "osprey"
+
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
