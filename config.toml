@@ -1,12 +1,49 @@
-baseURL = "http://example.org/"
-
-languageCode = "en-us"
-
 title = "OSGISOMG"
-
+baseURL = "https://tomanistor.com"
+tags = ["portfolio", "web design", "blog", "OS", "GIS", "OMG", "civic tech"]
+languageCode = "en-US"
+config = "config.toml"
 theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "osgisomg"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "OpenSourceGeographicInformationSystemsOhMyGod"
+    author = "Eric Sherman"
+    description = "Full-stack web developer, Open Source GIS Consultant and UI/UX enthusiast based in Chicago, IL."
+    logoBig = "/images/Bungee-OSGISOMG.svg"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/osprey.png"
+    twitter = "osgisomg"
+    linkedin = "easherma"
+    github = "easherma"
+    email = "ericandrewsherman@gmail.com"
+    googleTagManger = ""
+    highlightJS = true
+    copyright = true
+    credit = false
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
 
 [[menu.main]]
-    name = "About"
-    url  = "/#about"
+    name = "Open Source"
+    url  = "/#blog"
     weight = 1
+
+[[menu.main]]
+    name = "GIS"
+    url  = "/#work"
+    weight = 2
+
+[[menu.main]]
+    name = "Oh My God"
+    url  = "/#OMG"
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 4
