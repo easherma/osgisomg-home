@@ -41,7 +41,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 
 [[menu.main]]
     name = "Oh My God"
-    url  = "/#OMG"
+    url  = "/#about"
     weight = 3
 [[menu.main]]
     name = "Contact"
