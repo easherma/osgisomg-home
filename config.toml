@@ -1,5 +1,5 @@
 title = "OSGISOMG"
-baseURL = "https://tomanistor.com"
+baseURL = "https://osgisomg.com"
 tags = ["portfolio", "web design", "blog", "OS", "GIS", "OMG", "civic tech"]
 languageCode = "en-US"
 config = "config.toml"
