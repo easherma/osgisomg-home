@@ -17,7 +17,7 @@ I am also very passionate about the potential ways for art and technology to int
 
 ## Skills
 
-**Civic Engagement & Public Policy **
+**Civic Engagement & Public Policy**
 
 As part of the leadership team for Chi Hack Night, I am closely involved with hosting, promotion, and strategic planning of our event. I have also volunteered and worked in Chicago Politics since 2012, which has included outreach work for political campaigns as well as lobbying work on behalf of Chicago Votes for automatic voter registration.
 
