@@ -5,7 +5,7 @@ languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-googleAnalytics = ""
+googleAnalytics = "UA-108443162-1"
 disqusShortname = "osgisomg"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
@@ -24,10 +24,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     highlightJS = true
     copyright = true
     credit = false
-    customCSS = false
+    customCSS = true
     cacheBustCSS = false
     cacheBustJS = false
     ajaxFormspree = true
+
 
 [[menu.main]]
     name = "OSGISOMG"

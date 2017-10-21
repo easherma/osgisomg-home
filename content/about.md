@@ -3,6 +3,12 @@ title: "OSGISOMG"
 date: 2017-08-31T19:20:17-05:00
 draft: false
 ---
+## Hello! My name is Eric Sherman. 
+
+<img class="img-circle" src="images/profile.jpg">
+
+
+
 
 ## Background
 
