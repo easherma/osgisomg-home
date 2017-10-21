@@ -30,17 +30,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     ajaxFormspree = true
 
 [[menu.main]]
-    name = "Open Source"
-    url  = "/#blog"
-    weight = 1
-
-[[menu.main]]
-    name = "GIS"
-    url  = "/#work"
-    weight = 2
-
-[[menu.main]]
-    name = "Oh My God"
+    name = "OSGISOMG"
     url  = "/#about"
     weight = 3
 [[menu.main]]
