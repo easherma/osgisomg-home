@@ -1,7 +1,7 @@
 ---
 title: "Crowd Sourcing For Planners"
 date: 2018-01-18T11:08:26-06:00
-draft: true
+draft: false
 ---
 
 # Map-based Survey Tool
