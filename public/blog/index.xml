@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OSGISOMG</title>
-    <link>https://osgisomg.com/</link>
-    <description>Recent content on OSGISOMG</description>
+    <title>Blogs on OSGISOMG</title>
+    <link>https://osgisomg.com/blog/</link>
+    <description>Recent content in Blogs on OSGISOMG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>true</copyright>
     <lastBuildDate>Thu, 18 Jan 2018 11:08:26 -0600</lastBuildDate>
     
-	<atom:link href="https://osgisomg.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://osgisomg.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,16 +23,6 @@
  A backend to store submissions from the survey tool
  Processing, cleaning, and editing of data was then done locally using GIS software
  This processed data was then loaded into a local relational database, where it was combined with other datasets and aggregated to generate scores used in our Prioritization process</description>
-    </item>
-    
-    <item>
-      <title>OSGISOMG</title>
-      <link>https://osgisomg.com/about/</link>
-      <pubDate>Thu, 31 Aug 2017 19:20:17 -0500</pubDate>
-      
-      <guid>https://osgisomg.com/about/</guid>
-      <description>Hello! My name is Eric Sherman. Background My professional and academic background is highly interdisciplinary. I studied Political Science(focusing in organizational theory, political economy, and urban politics) and Geography and Environmental Studies (Focusing in Urban Planning, Sustainable Development and GIS).
-As a first generation college student from a working-class family, much of my interests revolve around a desire to understand the struggles faced by disadvantaged communities or individuals, as well an overall curiosity for what makes functional communities &amp;lsquo;tick&amp;rsquo;, and to bring these stories to a wider audience.</description>
     </item>
     
   </channel>
